@@ -6,7 +6,15 @@
 Contains a Header, Home Section, Share, Decorations, Accessories, Send Gift section, and Footer. 
 It also has a fully developed light / dark mode 🌓.
 
-Demo -> https://dianavcruz.github.io/christmas-page/
+See the website here -> [Christmas Page](https://dianavcruz.github.io/christmas-page/)
+
+
+## Sponsor 💛
+
+Give a ⭐ if you like this website!
+<br>
+
+<a href="https://www.buymeacoffee.com/DianaVCruz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 ![image](https://user-images.githubusercontent.com/98240550/181414402-9cc9e1d5-4a8d-4b85-8f36-e40376e4b830.png)
 ![image](https://user-images.githubusercontent.com/98240550/181414549-c7e45a9d-5022-4900-bc26-5d53b264293f.png)
