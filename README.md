@@ -6,7 +6,7 @@
 Contains a Header, Home Section, Share, Decorations, Accessories, Send Gift section, and Footer. 
 It also has a fully developed light / dark mode 🌓.
 
-See the website here -> [Christmas Page](https://dianavcruz.github.io/christmas-page/)
+See the website here -> [Christmas Page](https://responsive-christmas-page.netlify.app)
 
 Give a ⭐ if you like this website!
 <br>
